@@ -1,1 +1,1 @@
-REQ-1: The device beeps twice at power on.
+REQ-1: The device beeps three times at power on.
